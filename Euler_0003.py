@@ -9,4 +9,4 @@ def factors(n):
 		else:
 			k += 1
 
-print max(factors(600851475143))
+print(max(factors(600851475143)))
