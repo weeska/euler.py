@@ -1,5 +1,4 @@
 import math
-
 def prime_sieve(n):
     ints = [x for x in range(2, n)]
     marked_ints = set()
