@@ -1,6 +1,6 @@
 from stuff.primes import is_prime_naive
 
-def result(): # makes retun easier
+def result(): # makes return easier
 	for a in range(1000, 10000):
 
 		if a == 1487:
